@@ -1,10 +1,7 @@
 # GitHub Repository Management
 
+## Repository Best Practices
 - **No merging into main without Preface**
-  
-- **ReadMe**
-  
-- **DevOps Slack Channel**
   
 - **New Code**
   - Create a new branch off of main
@@ -29,8 +26,6 @@
     - Consistent format & logging
     - Code linting during deployment
 
-# Code Reviews
-
 - **Generic**
   - Black and Formatting rules
   - Set Coding Standards (Typing, func strings, return types)
@@ -47,6 +42,8 @@
   - Implementation of Standard Slack alerts
     - Alerts for errors
     - Alerts for major info (Deployments, etc.)
+   
+## Project Notes
 
 - **AnalyticsDataProcessing**
   - Remove dev imports
